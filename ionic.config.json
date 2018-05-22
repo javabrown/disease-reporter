@@ -2,5 +2,7 @@
   "name": "easy-bull",
   "app_id": "f9c7feae",
   "type": "ionic-angular",
-  "integrations": {}
+  "integrations": {
+    "cordova": {}
+  }
 }
