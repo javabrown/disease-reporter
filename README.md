@@ -1,7 +1,7 @@
-# {easy-bull}
+# {disease-reporter}
 
 
-### To build the web project to use in iOS project:
+### Build Instruction:
 
 ```
 $ sudo ionic cordova run ios
